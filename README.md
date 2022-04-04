@@ -1,6 +1,6 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Projeto Desenvolvido em parceria com a Digital innovation One 🙃
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um joguinho de space shooter super legal! 
+
 
 ### Os requisitos são:
 
@@ -10,4 +10,4 @@ Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um jogui
  
 
 
-## 🚀 Let's code! 🚀
+
